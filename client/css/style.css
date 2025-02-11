@@ -8,7 +8,7 @@
 body {
   padding-top: 70px;
   min-height: 150vh;
-  background: linear-gradient(135deg, #5cff68, #05caff);
+  background: linear-gradient(135deg, #1b0a2c, #67125f);
   background-repeat: no-repeat;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #4c4c4c;
+  background-color: #000000;
   border-radius: 20px;
   border: 3px solid transparent;
   background-clip: content-box;
@@ -182,7 +182,6 @@ body {
 
 .banner-img {
   position: absolute;
-  background-image: url(https://www.doit-intl.com/wp-content/uploads/2019/01/5c709-1ecs_g06obsiswvlwsvu-oq.png);
   height: 10rem;
   width: 100%;
   background-position: center;
